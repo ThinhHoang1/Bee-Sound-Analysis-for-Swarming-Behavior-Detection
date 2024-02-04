@@ -90,7 +90,7 @@ history = model.fit(X_train, y_train,
 print("Training completed in {} seconds.".format(int(time.time()-current_time)))
 ```
 
-## Model Performance on Buzz 1: 
+## Model Performance on Buzz 2: 
 
 
 
