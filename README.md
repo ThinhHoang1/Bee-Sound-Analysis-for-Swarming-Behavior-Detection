@@ -63,7 +63,7 @@ Chroma features represent the energy distribution of pitch classes in an audio s
 ![PCA Plot](https://github.com/ThinhHoang1/Bee-Sound-Analysis-for-Swarming-Behavior-Detection/blob/Buzz_2/Data%20Distribustion/MFCCs%20Distribusion/PCA%20Visualization%20of%20Training%20Data%20(2D).png)
 
 ### STFT (1024 Features ) 
-![PCA Plot](https://github.com/ThinhHoang1/Swarming-Bee-Detection-On-Buzz-1/blob/Buzz-1/Data%20Distribustion/STFT%20Distribution/STFT%20(%201024%20Features%20)%20Train%20Set.png)
+![PCA Plot](https://github.com/ThinhHoang1/Bee-Sound-Analysis-for-Swarming-Behavior-Detection/blob/Buzz_2/Data%20Distribustion/STFT%20Distribution/PCA%20Visualization%20of%20Training%20Data%20(2D).png)
 
 ### Chroma ( 24 Features ) 
 ![PCA Plot](https://github.com/ThinhHoang1/Bee-Sound-Analysis-for-Swarming-Behavior-Detection/blob/Buzz_2/Data%20Distribustion/Chroma%20Distribution/PCA%20Visualization%20of%20Training%20Data%20(2D).png)
